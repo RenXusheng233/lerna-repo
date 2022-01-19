@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "my house.",
   "keywords": [
     "house"
@@ -21,10 +21,10 @@
   },
   "dependencies": {
     "babel-core": "^6.26.3",
-    "window": "^1.0.6"
+    "window": "^1.0.7"
   },
   "devDependencies": {
-    "cat": "^1.0.6"
+    "cat": "^1.0.7"
   },
   "gitHead": "0831cfddef4cc4d69c2d2fba5c9e53aaabfdaccc"
 }
