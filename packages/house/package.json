@@ -1,0 +1,29 @@
+{
+  "name": "house",
+  "version": "1.0.0",
+  "description": "my house.",
+  "keywords": [
+    "house"
+  ],
+  "author": "RenXusheng233 <782449909@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/house.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "window": "^1.0.0"
+  },
+  "devDependencies": {
+    "cat": "^1.0.0"
+  }
+}
