@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "1.1.0-alpha.0",
+  "version": "1.0.2",
   "description": "my house.",
   "keywords": [
     "house"
@@ -24,7 +24,7 @@
     "window": "^1.0.2"
   },
   "devDependencies": {
-    "cat": "^1.1.0-alpha.0"
+    "cat": "^1.0.2"
   },
   "gitHead": "11396dea86f7ed8c9cd0dc213c3ea8733ff56810"
 }
