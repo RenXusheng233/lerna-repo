@@ -7,7 +7,7 @@
   ],
   "author": "RenXusheng233 <782449909@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "main": "lib/house.js",
   "directories": {
     "lib": "lib",
