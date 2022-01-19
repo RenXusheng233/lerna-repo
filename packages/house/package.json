@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my house.",
   "keywords": [
     "house"
@@ -14,8 +14,8 @@
     "test": "__tests__"
   },
   "publishConfig": {
-		"registry": "https://registry.npmjs.org/"
-	},
+    "registry": "https://registry.npmjs.org/"
+  },
   "files": [
     "lib"
   ],
@@ -25,10 +25,10 @@
   "dependencies": {
     "babel-core": "^6.26.3",
     "chalk": "^5.0.0",
-    "window": "^1.0.1"
+    "window": "^1.0.2"
   },
   "devDependencies": {
-    "cat": "^1.0.1"
+    "cat": "^1.0.2"
   },
   "gitHead": "11396dea86f7ed8c9cd0dc213c3ea8733ff56810"
 }
