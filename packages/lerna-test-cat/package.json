@@ -1,0 +1,35 @@
+{
+  "name": "@richardren/lerna-test-cat",
+  "version": "1.0.0",
+  "description": "package for test.",
+  "keywords": [
+    "cat"
+  ],
+  "author": "RenXusheng233 <782449909@qq.com>",
+  "homepage": "https://github.com/RenXusheng233/lerna-repo#readme",
+  "license": "UNLICENSED",
+  "main": "lib/lerna-test-cat.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenXusheng233/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/RenXusheng233/lerna-repo/issues"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
