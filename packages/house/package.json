@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "babel-core": "^6.26.3",
+    "chalk": "^5.0.0",
     "window": "^1.0.1"
   },
   "devDependencies": {
