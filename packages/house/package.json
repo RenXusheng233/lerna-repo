@@ -25,5 +25,6 @@
   },
   "devDependencies": {
     "cat": "^1.0.1"
-  }
+  },
+  "gitHead": "11396dea86f7ed8c9cd0dc213c3ea8733ff56810"
 }
