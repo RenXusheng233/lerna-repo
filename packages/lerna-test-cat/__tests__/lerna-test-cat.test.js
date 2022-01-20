@@ -2,6 +2,6 @@
 
 const lernaTestCat = require('..');
 
-describe('@richardRen/lerna-test-cat', () => {
+describe('lerna-test-cat', () => {
     it('needs tests');
 });

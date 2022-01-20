@@ -1,4 +1,4 @@
-# `@richardRen/lerna-test-cat`
+# `lerna-test-cat`
 
 > TODO: description
 
