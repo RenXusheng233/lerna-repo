@@ -1,6 +1,6 @@
 {
   "name": "lerna-test-dog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for test dog.",
   "keywords": [
     "dog"
@@ -30,6 +30,6 @@
     "url": "https://github.com/RenXusheng233/lerna-repo/issues"
   },
   "dependencies": {
-    "lerna-test-cat": "^1.0.9"
+    "lerna-test-cat": "^1.0.10"
   }
 }

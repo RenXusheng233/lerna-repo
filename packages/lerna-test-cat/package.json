@@ -1,6 +1,6 @@
 {
   "name": "lerna-test-cat",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Package for test cat.",
   "keywords": [
     "cat"
