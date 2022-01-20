@@ -1,14 +1,14 @@
 {
-  "name": "lerna-test-cat",
-  "version": "1.0.9",
-  "description": "Package for test cat.",
+  "name": "lerna-test-dog",
+  "version": "1.0.0",
+  "description": "Package for test dog.",
   "keywords": [
-    "cat"
+    "dog"
   ],
   "author": "RenXusheng233 <782449909@qq.com>",
   "homepage": "https://github.com/RenXusheng233/lerna-repo#readme",
   "license": "UNLICENSED",
-  "main": "lib/lerna-test-cat.js",
+  "main": "lib/lerna-test-dog.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -30,7 +30,6 @@
     "url": "https://github.com/RenXusheng233/lerna-repo/issues"
   },
   "dependencies": {
-    "babel-core": "^6.26.3"
-  },
-  "gitHead": "8f6e3a475078b287ecf303e81a98ce01ae71b657"
+    "lerna-test-cat": "^1.0.9"
+  }
 }
